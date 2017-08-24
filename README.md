@@ -1,6 +1,6 @@
 # Updated Repo
 
-Please see https://github.com/paypal/paypal-checkout for the new home of the PayPal Checkout javascript integration. This repo will soon be deprecated, so please try out paypal-checkout and let us know any feedback. Thanks!
+Please see https://github.com/paypal/paypal-checkout for the new home of the PayPal Checkout javascript integration. This repo is deprecated.
 
 Other helpful links:
 
